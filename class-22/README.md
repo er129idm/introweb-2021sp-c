@@ -22,4 +22,4 @@ Media Elements and External library showcase
 
 ### Homework
 
-Begin thinking about and gathering references / assembling a mood board for your final project.
+Update a prior project (or produce a new one) implementing a third party JS library to add some new special functionality.
